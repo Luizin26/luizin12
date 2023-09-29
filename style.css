@@ -1,0 +1,28 @@
+
+
+    .card_produtos{
+        width: 20rem;
+        background-color: #D6D7D6;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 50px;
+        /* border: solid;
+        border-radius: 2rem; */
+        
+    }
+
+    h1{
+        font-size: 25px;
+        
+    }
+    h3{
+        font-size: 25px;
+    }
+
+shadow,img{
+    width: 20rem;
+    height: 20rem;
+    border: solid;
+    border-radius: 2rem;
+}
